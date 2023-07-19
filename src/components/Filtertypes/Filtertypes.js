@@ -16,6 +16,7 @@ function Filtertypes()
         <Type image="https://b.zmtcdn.com/data/o2_assets/78d25215ff4c1299578ed36eefd5f39d1616149985.png " 
         text="Dining Out"/>
         <Type />
+        <Type /> 
         </div>
        </div>
 
