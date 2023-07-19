@@ -3,6 +3,10 @@
 import React from "react";
 // importing the css
 import "./Navbar.css";
+
+// import chevron from "../../chevron.png"
+
+
 import location from "../../assets/location.png"
 import chevron from "../../assets/chevron.png"
 import  verticalline from "../../assets/verticalline.png"
@@ -63,7 +67,10 @@ function Navbar() {
       </div>
     </div>
   );
-}
+} 
+
+
+
   
 // function Navbar()
 // {
