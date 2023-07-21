@@ -18,7 +18,12 @@ console.log(props);
             <p className="filter-type-text "> {props.text}  </p>
 
         </div>
-    );
+    );      
+
+
+
+
+    // 
 
 }
 
